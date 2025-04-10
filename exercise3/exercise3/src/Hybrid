@@ -1,0 +1,9 @@
+public class Hybrid{
+    chargebattery() {
+        System.out.println("Charging Battery");
+    }
+
+    fillgas() {
+        System.out.println("Refueling Gas");
+    }
+    }
